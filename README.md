@@ -1,1 +1,1 @@
-# ResidentConnect-References
+# ResidentConnect- Documents like flow diagrams, API details
